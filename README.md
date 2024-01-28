@@ -1,3 +1,4 @@
 # NLP_with_Attention
 
-In this repository, I have added all the NLP Projects I did with Attention models - NMT Model for Machine Translation (transformer models will be added later). I have also implemented Sequence Models like LSTM, RNN(GRU) etc wherever it is necessary.
+NMT with Attention Mechanism - This model uses traditional seq2seq model with attention mechanism for english to tamil translation. It also uses sequential models like LSTM, GRU, RNN.<br>
+Ex-QA using BERT and HF🤗 - This model uses BERT which is fine-tuned and HuggingFace Dataset for my other project FFF.
